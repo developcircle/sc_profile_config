@@ -1,9 +1,2 @@
 server:
-    port: 9999
-eureka:
-  client:
-    service-url:
-      defaultZone: http://peer2:9012/eureka/,http://peer1:9011/eureka/
-spring:
-  application:
-    name: hello
+    port: 9018
